@@ -2,4 +2,4 @@
 
 Each directory contains an illustration of a workflow created using https://app.diagrams.net
 
-The diagrams are available as either SVG or PNG images
+The diagrams are available as SVG or PNG images and PDF documents
