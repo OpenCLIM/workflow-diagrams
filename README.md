@@ -4,6 +4,10 @@ Each directory contains an illustration of a workflow created using https://app.
 
 The diagrams are available as PNG images and drawio (XML) files.
 
+Definitions:
+- model workflow: A workflow for a single model
+- composite workflow: A workflow for multiple models containing
+
 # Template
 A template file is available in the template directory - https://github.com/OpenCLIM/workflow-diagrams/tree/master/template. This should be copied when creating a new diagram for a workflow.
 
