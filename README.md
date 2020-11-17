@@ -24,6 +24,9 @@ A model workflow diagram should detail the individual datasets and processes req
 
 A composite workflow diagram is intended to highlight in a general manner a set of processes incorporating a number of models which will help answer research questions beyond what a single model might be able to do. The detail of the individual models should be omitted (users can see this in the individual model diagram), but should highlight the transformations and processes that are required to link models together. This could also include decision processes if appropriate.
 
+# Naming Conventions
+Directory and file names should be lower case with spaces represented by hyphens.
+
 # FAQ
 - Can multiple people modify the same diagram  
 No, not at the same time, otherwise this will cause some issues when either of you try to save your edits. Please try and make sure only one person works on a workflow at a time.
