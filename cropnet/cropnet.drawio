@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T16:33:25.114Z" agent="5.0 (Windows)" etag="Gq8PGn97QD3DIKivNREG" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T16:37:43.622Z" agent="5.0 (Windows)" etag="_Q0Ir7iHKOqtuyHJWXMg" version="13.10.4" type="github">
   <diagram id="Yevh-g8nTKUBOGGr0oUq" name="Page-1">
     <mxGraphModel dx="1117" dy="2219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             <mxPoint x="680" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCKSHiEcdpWvHQWmLOOp-51" value="Modelled crop variables available for output" style="swimlane;" parent="gkHT4bu3b0f0jtjOqA4o-1" vertex="1">
+        <mxCell id="wCKSHiEcdpWvHQWmLOOp-51" value="Modelled crop variables available for output (12km)" style="swimlane;" parent="gkHT4bu3b0f0jtjOqA4o-1" vertex="1">
           <mxGeometry x="536.37" y="360" width="543.63" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wCKSHiEcdpWvHQWmLOOp-54" value="&lt;div&gt;Water&lt;/div&gt;&lt;div&gt;Unlimited&lt;/div&gt;&lt;div&gt;Yield&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="wCKSHiEcdpWvHQWmLOOp-51" vertex="1">
